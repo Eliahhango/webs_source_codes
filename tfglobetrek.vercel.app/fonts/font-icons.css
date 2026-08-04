@@ -1,0 +1,133 @@
+@font-face {
+  font-family: "icomoon";
+  src: url("icomoon.eot%3Fctxhj7");
+  src: url("icomoon.eot%3Fctxhj7") format("embedded-opentype"),
+    url("icomoon.ttf%3Fctxhj7") format("truetype"),
+    url("icomoon.woff%3Fctxhj7") format("woff"),
+    url("icomoon.svg%3Fctxhj7") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "icomoon" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-email:before {
+  content: "\e911";
+}
+.icon-phone-3:before {
+  content: "\e912";
+}
+.icon-list:before {
+  content: "\e913";
+}
+.icon-instgram:before {
+  content: "\e90e";
+}
+.icon-linked:before {
+  content: "\e90f";
+}
+.icon-tw:before {
+  content: "\e910";
+}
+.icon-facebook:before {
+  content: "\e902";
+}
+.icon-Profile:before {
+  content: "\e916";
+}
+.icon-Heart:before {
+  content: "\e917";
+}
+.icon-Category:before {
+  content: "\e918";
+}
+.icon-Search:before {
+  content: "\e919";
+}
+.icon-Home:before {
+  content: "\e91a";
+}
+.icon-star:before {
+  content: "\e901";
+}
+.icon-heart-2:before {
+  content: "\e903";
+}
+.icon-phone:before {
+  content: "\e905";
+}
+.icon-user:before {
+  content: "\e907";
+}
+.icon-heart:before {
+  content: "\e908";
+}
+.icon-range:before {
+  content: "\e914";
+}
+.icon-X:before {
+  content: "\e915";
+}
+.icon-check:before {
+  content: "\e91b";
+}
+.icon-XLogo:before {
+  content: "\e930";
+}
+.icon-play-filled:before {
+  content: "\e946";
+}
+.icon-MapPin:before {
+  content: "\e904";
+}
+.icon-search:before {
+  content: "\e900";
+}
+.icon-CaretDown:before {
+  content: "\e927";
+}
+.icon-CaretUp:before {
+  content: "\e909";
+}
+.icon-CaretLeft:before {
+  content: "\e928";
+}
+.icon-CaretRight:before {
+  content: "\e929";
+}
+.icon-clock:before {
+  content: "\e906";
+}
+.icon-time:before {
+  content: "\e906";
+}
+.icon-history:before {
+  content: "\e906";
+}
+.icon-arrow-right:before {
+  content: "\e90a";
+}
+.icon-arrow-left:before {
+  content: "\e90b";
+}
+.icon-arrow-down:before {
+  content: "\e90c";
+}
+.icon-arrow-up:before {
+  content: "\e90d";
+}

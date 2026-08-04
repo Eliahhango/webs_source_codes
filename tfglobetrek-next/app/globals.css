@@ -1,0 +1,5 @@
+/* Minimal global stylesheet — the template's real styling ships via
+   /css/*.css loaded in the root layout, identical to the original. */
+html {
+  scroll-behavior: auto;
+}

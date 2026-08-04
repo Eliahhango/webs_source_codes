@@ -1,0 +1,23 @@
+{
+  "name": "tfglobetrek-next",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "convert": "node scripts/convert.mjs"
+  },
+  "dependencies": {
+    "next": "14.2.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "@types/react": "^18.3.31",
+    "htmlparser2": "^9.1.0",
+    "prettier": "^3.9.6",
+    "typescript": "^5.9.3"
+  }
+}
